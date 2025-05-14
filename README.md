@@ -11,5 +11,5 @@
 
 # 2. 진행사항
 ## 1일차 - 개발환경 구축
-
+ - 1. JDK (Java Development Kit)
    
